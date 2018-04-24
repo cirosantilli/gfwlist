@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#base64 -d gfwlist.txt | sed -E '/^!/d;/^$/d;'  > decode.txt
+base64 -d gfwlist.txt | sed -E -e '/^!/d;/^$/d;s/^[|@.]*//;/^http/n;s/^/https:\/\//' | sort | sed -E 's/$/\n/' > decode.md
