@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-#base64 -d gfwlist.txt | sed -E '/^!/d;/^$/d;'  > decode.txt
-base64 -d gfwlist.txt | sed -E -e '/^!/d;/^$/d;s/^[|@.]*//;/^http/!s/^/https:\/\//;s/^/1. /' | sort > README.md
+base64 -d gfwlist.txt | sed -E -e '/^!/d;/^$/d;s/^[|@.]*//;/^http/!s/^/https:\/\//;s/^/1. /' | sort > README_raw.md
+awk 'NR==FNR {h[$2] = $3; next} {print $1,$2,h[$2]}' README.md README_raw.md > README_tmp.md
+mv README_tmp.md README.md
