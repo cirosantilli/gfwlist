@@ -6,82 +6,82 @@
 1. http://*.tuzaijidi.com 
 1. http://*.wordpress.com 
 1. http://*2.bahamut.com.tw 
-1. http://0rz.tw url-shortener,taiwan
+1. http://0rz.tw url-short,taiwan,zh
 1. http://1bao.org 
-1. http://8-d.com 
-1. http://85.17.73.31/ 
-1. http://85cc.us 
-1. http://85st.com 
-1. http://908taiwan.org/ 
-1. http://991.com 
+1. http://8-d.com porn
+1. http://85.17.73.31/ server-hello
+1. http://85cc.us porn,porn-asian,zh
+1. http://85st.com porn,porn-asian,zh
+1. http://908taiwan.org/ down
+1. http://991.com piracy
 1. http://99cn.info 
-1. http://aamacau.com 
-1. http://acg18.me 
-1. http://adpl.org.hk 
-1. http://adult.friendfinder.com/ 
-1. http://ae.hao123.com 
-1. http://afantibbs.com 
-1. http://akademiye.org/ug 
-1. http://alanhou.com 
-1. http://allinfa.com 
-1. http://amitabhafoundation.us 
-1. http://andygod.com 
-1. http://antiwave.net 
-1. http://anysex.com 
-1. http://aofriend.com 
-1. http://appshopper.com 
-1. http://ar.hao123.com 
-1. http://arctosia.com 
+1. http://aamacau.com blog
+1. http://acg18.me down
+1. http://adpl.org.hk blog
+1. http://adult.friendfinder.com/ porn
+1. http://ae.hao123.com down
+1. http://afantibbs.com bbs
+1. http://akademiye.org/ug yughur
+1. http://alanhou.com down
+1. http://allinfa.com flg
+1. http://amitabhafoundation.us blog,tibet
+1. http://andygod.com porn
+1. http://antiwave.net down
+1. http://anysex.com porn
+1. http://aofriend.com
+1. http://appshopper.com appstore
+1. http://ar.hao123.com down
+1. http://arctosia.com blog Bear's blog
 1. http://atchinese.com 
-1. http://avmoo.com 
-1. http://avmoo.net 
+1. http://avmoo.com porn
+1. http://avmoo.net porn
 1. http://baijie.org 
-1. http://bangchen.net 
-1. http://baramangaonline.com 
-1. http://bbc.in 
+1. http://bangchen.net tibet
+1. http://baramangaonline.com porn,porn-gay,porn-hentai
+1. http://bbc.in news
 1. http://bbs.cantonese.asia/ 
-1. http://bbs.hanminzu.org/ 
-1. http://beijingzx.org 
-1. http://bell.wiki 
-1. http://biblesforamerica.org 
-1. http://biliworld.com 
-1. http://billypan.com/wiki 
-1. http://bit.do 
-1. http://bit.ly 
-1. http://blog.calibre-ebook.com 
-1. http://blog.excite.co.jp 
-1. http://blog.inoreader.com 
-1. http://blog.jp 
-1. http://blog.martinoei.com 
-1. http://blog.ontrac.com 
-1. http://blog.ranxiang.com/ 
+1. http://bbs.hanminzu.org/ down
+1. http://beijingzx.org flg
+1. http://bell.wiki down
+1. http://biblesforamerica.org christ
+1. http://biliworld.com down
+1. http://billypan.com/wiki down
+1. http://bit.do url-short
+1. http://bit.ly url-short
+1. http://blog.calibre-ebook.com software
+1. http://blog.excite.co.jp ?
+1. http://blog.inoreader.com software
+1. http://blog.jp ?
+1. http://blog.martinoei.com down
+1. http://blog.ontrac.com ?
+1. http://blog.ranxiang.com/ programming
 1. http://blog.soylent.com 
-1. http://blogtd.org 
-1. http://bod.asia 
-1. http://book.zi5.me 
-1. http://br.hao123.com 
-1. http://btdigg.org 
-1. http://buffered.com 
-1. http://busayari.com 
-1. http://busu.org/news 
-1. http://cacnw.com 
-1. http://casatibet.org.mx 
-1. http://catchgod.com 
+1. http://blogtd.org down
+1. http://bod.asia tibet
+1. http://book.zi5.me piracy
+1. http://br.hao123.com down
+1. http://btdigg.org down
+1. http://buffered.com vpn
+1. http://busayari.com porn
+1. http://busu.org/news blog,?
+1. http://cacnw.com down
+1. http://casatibet.org.mx tibet
+1. http://catchgod.com porn
 1. http://cdn*.search.xxx/ 
-1. http://cdn*.xda-developers.com 
-1. http://cdn.v2ex.com 
-1. http://centurys.net 
-1. http://certificate.revocationcheck.com 
-1. http://cgdepot.org 
-1. http://changsa.net 
-1. http://chenpokong.net 
-1. http://chicagoncmtv.com 
-1. http://china-review.com.ua 
-1. http://china.ucanews.com/ 
-1. http://chinman.net 
-1. http://chn.chosun.com 
-1. http://chrdnet.com 
-1. http://christianfreedom.org 
+1. http://cdn*.xda-developers.com software
+1. http://cdn.v2ex.com bbs
+1. http://centurys.net piracy,porn,hentai
+1. http://certificate.revocationcheck.com gfw
+1. http://cgdepot.org religion,christ
+1. http://changsa.net down
+1. http://chenpokong.net ?
+1. http://chicagoncmtv.com ? New Chinese Media inc
+1. http://china-review.com.ua ?,products
+1. http://china.ucanews.com/ religion,christ
+1. http://chinman.net down
+1. http://chn.chosun.com news
+1. http://chrdnet.com activist Chinese Human Rights Defenders
+1. http://christianfreedom.org religion,christ
 1. http://chrlawyers.hk 
 1. http://churchinhongkong.org/b5/index.php 
 1. http://citizenlab.org 
@@ -124,7 +124,7 @@
 1. http://efukt.com 
 1. http://emule-ed2k.com 
 1. http://emulefans.com 
-1. http://en.hao123.com 
+1. http://en.hao123.com down
 1. http://entnt.com 
 1. http://epochhk.com 
 1. http://erktv.com 
@@ -935,7 +935,7 @@
 1. https://bannedbook.org 
 1. https://bannednews.org 
 1. https://banorte.com 
-1. https://baramangaonline.com 
+1. https://baramangaonline.com porn,porn-gay,porn-hentai
 1. https://barenakedislam.com 
 1. https://barnabu.co.uk 
 1. https://bartvpn.com 
@@ -1377,7 +1377,7 @@
 1. https://cfhks.org.hk 
 1. https://cfos.de 
 1. https://cftfc.com 
-1. https://cgdepot.org 
+1. https://cgdepot.org religion,christ
 1. https://cgst.edu 
 1. https://ch.shvoong.com 
 1. https://change.org 
